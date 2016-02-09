@@ -1,0 +1,7 @@
+/test/
+.jscsrc
+.jshintrc
+.npmignore
+/docs/
+.gitattributes
+.*

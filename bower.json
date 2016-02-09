@@ -1,0 +1,21 @@
+{
+  "name": "@tokratek/indexLanguageRedirecter",
+  "homepage": "https://github.com/Tokra-Tek/IndexLanguageRedirecter",
+  "authors": [
+    "Auxolust <Auxolust@TokraTek.com>"
+  ],
+  "description": "A small file to redirect users from the index page to an ISO 639-1 language prefixed index page",
+  "main": "index.js",
+  "moduleType": [],
+  "keywords": [
+    "language"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
